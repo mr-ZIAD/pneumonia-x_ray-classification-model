@@ -1,4 +1,5 @@
 # classification model to classify chest x-ray images using Google AutoML.
+Project Completion Date:2021
 
 for this project i've used Google AutoML, an automated machine learning tool that allowes me to build the model and host it in the cloud using a dataset from kaggle.com. In order to appreciate how training data impact models, i've build models with 4 variants of the dataset:
 
